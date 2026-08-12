@@ -235,4 +235,5 @@ footer a { color: var(--tx2); font-weight: 700; }
   .steps, .inc-grid, .form-row, .trustbar { grid-template-columns: 1fr; }
   section { padding: 3rem 1.25rem; }
   .hero { padding: 4rem 1.25rem 3rem; }
+  .nav .lang { display: none; }   /* en mobile el idioma se cambia con el boton flotante */
 }
