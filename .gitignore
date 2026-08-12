@@ -1,0 +1,7 @@
+worker/
+CREDENCIALES.md
+CLAUDE.md
+HILO_CONVERSACION.md
+.env
+.env.*
+node_modules/
