@@ -97,9 +97,59 @@ const I18N = {
     'footer.disc': 'GAMMA Marriages es un servicio de guía y gestión, no un estudio jurídico. Los casamientos los celebran oficiantes habilitados de Utah; los certificados y apostillas los emiten oficinas de gobierno de EE.UU.',
     'wa.text': '¡Hola! Queremos casarnos online (estamos en países distintos). ¿Pueden evaluar nuestro caso?',
   },
+  id: {
+    'meta.title': 'GAMMA Marriages — Menikah Resmi Secara Online, dari Mana Saja',
+    'meta.desc': 'Kami memandu pasangan yang terpisah jarak untuk menikah online 100% legal berdasarkan hukum Utah (AS). Upacara lewat video call, akta resmi, Apostille Den Haag. Biaya tetap USD 1.000.',
+    'nav.how': 'Cara kerjanya', 'nav.included': 'Yang termasuk', 'nav.price': 'Harga', 'nav.faq': 'Tanya jawab', 'nav.cta': 'Hubungi kami',
+    'hero.eyebrow': 'Agen pernikahan internasional',
+    'hero.h1a': 'Menikah.', 'hero.h1b': 'Resmi.', 'hero.h1c': 'Dari dua negara berbeda.',
+    'hero.sub': 'Kami memandu pasangan yang terpisah jarak melalui pernikahan online 100% legal berdasarkan hukum Utah (AS) — upacara nyata lewat video call, akta pernikahan resmi, termasuk Apostille Den Haag. Tanpa penerbangan, tanpa kedutaan, tanpa bingung mengurus dokumen.',
+    'hero.cta1': 'Mulai lewat WhatsApp', 'hero.cta2': 'Lihat cara kerjanya',
+    'hero.price': 'USD 1.000 biaya tetap — dipandu dari pertanyaan pertama sampai akta di tangan.',
+    'trust.1': '100% legal — Utah Code 30-1-6', 'trust.2': 'Apostille Den Haag diurus', 'trust.3': 'Sepenuhnya online — tanpa bepergian', 'trust.4': 'Menerima dokumen dari 200+ negara',
+    'story.label': 'Kisah kami',
+    'story.h2': 'Kami bukan konsultan. Kami menikah dengan cara ini.',
+    'story.p': 'GAMMA Marriages lahir dari pernikahan kami sendiri: sang suami di Argentina, sang istri di Indonesia — dan pada April 2026 mereka resmi dinikahkan oleh penghulu berlisensi Utah, lewat video call, dari dua benua. Akta, apostille, terjemahan: kami sudah melewati semua rintangannya, supaya kalian tidak perlu.',
+    'story.card1': 'Menikah April 2026 · Utah County, AS', 'story.card2': 'Terpisah 15.000 km. Satu akta pernikahan.',
+    'how.h2': 'Cara kerjanya',
+    'how.s1.t': 'Ceritakan kasus kalian', 'how.s1.p': 'Penilaian gratis: kami periksa identitas, negara, dan situasi kalian, lalu memastikan kalian bisa menikah dengan cara ini — sebelum membayar apa pun.',
+    'how.s2.t': 'Kami siapkan semuanya', 'how.s2.p': 'Pengajuan surat izin nikah, dokumen, saksi, jadwal — kami urus semua berkas bersama kalian, langkah demi langkah, termasuk kasus yang rumit.',
+    'how.s3.t': 'Upacara kalian, lewat video call', 'how.s3.p': 'Penghulu berlisensi Utah menikahkan kalian secara langsung lewat video call. Kalian boleh berada di negara berbeda — cukup pakai HP.',
+    'how.s4.t': 'Akta + apostille', 'how.s4.p': 'Kalian menerima akta pernikahan resmi, dengan Apostille sesuai Konvensi Den Haag, dikirim sampai ke rumah — plus panduan jelas untuk langkah selanjutnya di negara masing-masing.',
+    'inc.h2': 'Satu biaya. Semua diurus.',
+    'inc.1': 'Pemeriksaan kelayakan kedua pasangan', 'inc.2': 'Pengajuan surat izin nikah Utah, bersama kalian',
+    'inc.3': 'Nama tidak standar dan dokumen rumit? Kami tangani', 'inc.4': 'Penjadwalan upacara lintas zona waktu',
+    'inc.5': 'Koordinasi saksi — kami jelaskan persis tugas mereka', 'inc.6': 'Pengurusan Apostille Den Haag',
+    'inc.7': 'Pengiriman internasional akta kalian', 'inc.8': 'Pendampingan via WhatsApp sepanjang proses',
+    'price.label': 'Harga', 'price.sub': 'Satu biaya tetap untuk seluruh layanan terpandu.',
+    'price.note': 'Biaya pemerintah, platform, dan pengiriman dibayar terpisah ke pihak ketiga (total sekitar USD 500). Semua angka kami beri tahu di awal — tanpa kejutan.',
+    'price.cta': 'Cek apakah kalian bisa menikah',
+    'faq.h2': 'Pertanyaan yang selalu ditanyakan pasangan',
+    'faq.q1': 'Apakah ini benar-benar legal?',
+    'faq.a1': 'Ya. Utah (AS) mengizinkan pernikahan sepenuhnya jarak jauh lewat video call sejak 2020, berdasarkan Utah Code 30-1-6. Akta kalian adalah akta pernikahan AS yang asli — sama dengan yang diterima pasangan Amerika.',
+    'faq.q2': 'Apakah harus bepergian atau ke kedutaan?',
+    'faq.a2': 'Tidak. Seluruh proses dilakukan online: pengajuan, upacara, dan berkas. Yang bepergian hanya akta kalian, lewat kurir.',
+    'faq.q3': 'Bolehkah kami berada di dua negara berbeda saat upacara?',
+    'faq.a3': 'Boleh — persis seperti itu pernikahan kami. Masing-masing bergabung ke video call dari mana pun berada, dengan dua saksi yang terhubung online.',
+    'faq.q4': 'Apakah pernikahan kami diakui di negara kami?',
+    'faq.a4': 'Akta kalian adalah dokumen pernikahan AS resmi yang sudah di-apostille. Sebagian besar negara mengakui pernikahan yang sah di tempat dilangsungkannya; langkah pencatatan lokal berbeda di tiap negara, dan kami memandu sesuai negara kalian.',
+    'faq.q5': 'Berapa lama prosesnya?',
+    'faq.a5': 'Biasanya 1-2 minggu dari mulai berkas sampai akta digital. Salinan fisik yang sudah di-apostille tiba lewat kurir beberapa minggu kemudian.',
+    'contact.h2': 'Ceritakan tentang kalian berdua', 'contact.p': 'Kami balas dalam 24 jam (bahasa Inggris atau Spanyol).',
+    'contact.wa.t': 'Chat kami di WhatsApp', 'contact.wa.p': 'Cara tercepat — sebutkan negara kalian dan kami nilai kasusnya gratis.', 'contact.wa.btn': 'Buka WhatsApp',
+    'f.name': 'Nama kamu', 'f.email': 'Email', 'f.c1': 'Negara kamu', 'f.c2': 'Negara pasanganmu',
+    'f.msg': 'Ada yang perlu kami tahu? (opsional)', 'f.send': 'Kirim', 'f.sending': 'Mengirim...',
+    'f.ok': 'Diterima — kami hubungi dalam 24 jam.', 'f.err': 'Gagal terkirim. Chat kami lewat WhatsApp saja.',
+    'footer.by': 'Agensi dari GAMMA AUTOMATIZACIONES',
+    'footer.disc': 'GAMMA Marriages adalah layanan pendampingan dan pengurusan, bukan firma hukum. Pernikahan dilangsungkan oleh penghulu berlisensi Utah; akta dan apostille diterbitkan oleh kantor pemerintah AS.',
+    'wa.text': 'Halo! Kami ingin menikah secara online (kami berada di negara berbeda). Bisakah kalian menilai kasus kami?',
+  },
 };
 
-let lang = localStorage.getItem('gm-lang') || (navigator.language.toLowerCase().startsWith('es') ? 'es' : 'en');
+const LANGS = ['en', 'es', 'id'];
+const NAV = navigator.language.toLowerCase();
+let lang = localStorage.getItem('gm-lang');
+if (!LANGS.includes(lang)) lang = NAV.startsWith('es') ? 'es' : NAV.startsWith('id') ? 'id' : 'en';
 
 function applyLang(l) {
   lang = l;
@@ -115,8 +165,12 @@ function applyLang(l) {
     const v = dict[el.dataset.i18nContent];
     if (v) el.setAttribute('content', v);
   });
-  document.getElementById('lang-en').classList.toggle('active', l === 'en');
-  document.getElementById('lang-es').classList.toggle('active', l === 'es');
+  LANGS.forEach((code) => {
+    const btn = document.getElementById(`lang-${code}`);
+    if (btn) btn.classList.toggle('active', l === code);
+  });
+  document.querySelectorAll('.fab-menu button').forEach((b) => b.classList.toggle('active', b.dataset.lang === l));
+  document.getElementById('fab-code').textContent = l.toUpperCase();
   const wa = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(dict['wa.text'])}`;
   document.querySelectorAll('.wa-link').forEach((a) => {
     a.setAttribute('href', wa);
@@ -124,8 +178,23 @@ function applyLang(l) {
     a.setAttribute('rel', 'noopener');
   });
 }
-document.getElementById('lang-en').addEventListener('click', () => applyLang('en'));
-document.getElementById('lang-es').addEventListener('click', () => applyLang('es'));
+LANGS.forEach((code) => {
+  const btn = document.getElementById(`lang-${code}`);
+  if (btn) btn.addEventListener('click', () => applyLang(code));
+});
+
+// Botón flotante de idioma
+const fab = document.getElementById('lang-fab');
+const fabMenu = fab.querySelector('.fab-menu');
+document.getElementById('fab-toggle').addEventListener('click', () => {
+  fabMenu.hidden = !fabMenu.hidden;
+});
+fabMenu.querySelectorAll('button').forEach((b) =>
+  b.addEventListener('click', () => { applyLang(b.dataset.lang); fabMenu.hidden = true; })
+);
+document.addEventListener('click', (ev) => {
+  if (!fab.contains(ev.target)) fabMenu.hidden = true;
+});
 applyLang(lang);
 
 // Reveal on scroll
