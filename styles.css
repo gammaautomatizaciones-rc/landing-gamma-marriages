@@ -205,6 +205,7 @@ footer a { color: var(--tx2); font-weight: 700; }
 }
 .fab-main:hover { background: var(--accent-2); transform: translateY(-2px); }
 .fab-main .icon { width: 1.1rem; height: 1.1rem; }
+.fab-menu[hidden] { display: none; }
 .fab-menu {
   display: flex; flex-direction: column;
   background: var(--panel); border: 1px solid var(--border); border-radius: 0.5rem;
